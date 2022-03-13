@@ -1,0 +1,13 @@
+@import url("//fonts.cdnfonts.com/css/gameria");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "gameria", sans-serif;
+}
+
+html {
+  background-color: #212426;
+}
